@@ -1,7 +1,6 @@
 # Project Name - Bike Sharing Assignment
 > In this assignment, we are required to model the demand for shared bikes with the available independent variables using a multi linear regression method. Also, this will help business to understand which variables are significant in predicting the demand for shared bikes. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
 
-
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
@@ -62,11 +61,10 @@
 - Month-wise trends: November (mnth_11) increases rentals (+501), while months like April (mnth_4), May (mnth_5), and September (mnth_9) show declines.
 
 ## Acknowledgements
-This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
+This project was inspired by UpGrad IITB Programme as an assignment for the Machine Learning and Artificial Intelligence course.
 Special thanks to the team for providing the resources and support for this case study.
 
 I also referred [Machine Learning 101](https://www.udemy.com/course/machine-learning-101-with-scikit-learn-and-stats-models/) 
-
 
 ## Contact
 [Girish Kumar](https://github.com/ga898) - feel free to contact me!
