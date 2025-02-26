@@ -1,5 +1,5 @@
 # Project Name - Bike Sharing Assignment
-> In this assignment, we are required to model the demand for shared bikes with the available independent variables using a multi linear regression method. Also, this will help business to understand which variables are significant in predicting the demand for shared bikes. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
+> In this assignment, we are required to model the demand for shared bikes with the available independent variables using a multi linear regression method. This will help business to understand which variables are significant in predicting the demand for shared bikes. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
 
 ## Table of Contents
 * [General Information](#general-information)
