@@ -37,7 +37,7 @@
 
 - Business problem is the considerable dips in their revenues due to the ongoing Corona pandemic. So Problem solving agenda is to find the features (independent variables) which are significantly increase the demand for shared bikes. So management can use this to understand and manipulate the business strategy to meet the demand and customer expectations. 
 
-- Task performed 
+- **Task performed**
 - Step 1: Reading and Understanding the Data
 - Step 2: Data Preparation & Visualising the Data
 - Step 3: Splitting the Data into Training and Testing Sets
